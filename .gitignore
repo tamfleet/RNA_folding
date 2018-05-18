@@ -1,0 +1,9 @@
+*.docx
+*.o
+
+# ignore Apple Desktop Services Store
+.DS_Store
+*.dSYM
+
+# executable
+rna_fold
